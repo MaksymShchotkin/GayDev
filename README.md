@@ -1,6 +1,6 @@
 # GayDev
 # 
-#KepAlex, MiskaShark - ИИ 
+#KepAlex, MiskaShark, SmakLagidze - ИИ 
 #
 #Леха Й, - графика 
 #
